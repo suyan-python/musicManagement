@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1647482551 source:c:\users\adones\downloads\c++ project\musicmanagementsystem_c++_mysql\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+
